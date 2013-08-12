@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intentServiceDemo">intentServiceDemo</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="testButton">搜索</string>
+    <string name ="editContent">enter text</string>
+	<string name ="cpu">cpu</string>
+	<string name ="memory">内存</string>
+	<string name ="userate">使用率</string>
+	<string name ="other">其他</string>
+</resources>
